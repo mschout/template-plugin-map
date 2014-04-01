@@ -1,6 +1,7 @@
 Revision history for Template::Plugin::Map
 
 {{$NEXT}}
+    - remove Module::Signature requirement
 
 0.01  2012-06-09
     - Initial Release
