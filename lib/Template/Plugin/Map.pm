@@ -1,8 +1,5 @@
 package Template::Plugin::Map;
-BEGIN {
-  $Template::Plugin::Map::VERSION = '0.01';
-}
-
+$Template::Plugin::Map::VERSION = '0.02';
 # ABSTRACT: map VMethod for Template::Tookit
 
 use strict;
@@ -19,7 +16,7 @@ sub map_list {
 
 1;
 
-
+__END__
 
 =pod
 
@@ -29,7 +26,7 @@ Template::Plugin::Map - map VMethod for Template::Tookit
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 SYNOPSIS
 
@@ -63,13 +60,9 @@ Michael Schout <mschout@cpan.org>
 
 =head1 COPYRIGHT AND LICENSE
 
-This software is copyright (c) 2012 by Michael Schout <mschout@cpan.org>.
+This software is copyright (c) 2014 by Michael Schout <mschout@cpan.org>.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
 
 =cut
-
-
-__END__
-
