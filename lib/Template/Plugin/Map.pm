@@ -1,3 +1,4 @@
+# COPYRIGHT
 package Template::Plugin::Map;
 
 # ABSTRACT: map VMethod for Template::Tookit
