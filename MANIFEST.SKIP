@@ -7,3 +7,4 @@
 ^\.gitignore$
 ^dist\.ini$
 ^MYMETA
+^\.travis\.yml$
