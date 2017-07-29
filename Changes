@@ -1,6 +1,8 @@
 Revision history for Template::Plugin::Map
 
 {{$NEXT}}
+
+0.03  2017-07-29
     - add signature author test
     - new release that includes META.json
 
